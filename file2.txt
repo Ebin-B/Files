@@ -1,1 +1,2 @@
  I ma workig on git
+now looking for git merge and branches
