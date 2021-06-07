@@ -1,0 +1,55 @@
+[33mcommit 2c5289fcf30d8c065fcb8e27fab718d161cceb79[m[33m ([m[1;36mHEAD -> [m[1;32mfeatures[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 7482c41 377f2b5
+Author: Ebin Benny Thomas <ebinbthomas@gmail.com>
+Date:   Tue Jun 8 00:47:48 2021 +0530
+
+    Merge branch 'features'
+
+[33mcommit 7482c419824b8e5c9afbf34fa8d5f0a937f61a88[m
+Author: Ebin Benny Thomas <ebinbthomas@gmail.com>
+Date:   Tue Jun 8 00:46:43 2021 +0530
+
+    new file5 added
+
+[33mcommit 377f2b54ecba2d97eac658301622d9fcfb59fffa[m
+Author: Ebin Benny Thomas <ebinbthomas@gmail.com>
+Date:   Tue Jun 8 00:45:34 2021 +0530
+
+    new file2 changed
+
+[33mcommit fb261be19f02df828d6b415206da8fcd4304c89e[m
+Merge: 5133b7e 7cf09fd
+Author: Ebin Benny Thomas <ebinbthomas@gmail.com>
+Date:   Tue Jun 8 00:36:00 2021 +0530
+
+    Merge branch 'features'
+
+[33mcommit 5133b7e52a9b88f368a483ebfb08b57df2ed7e9d[m
+Author: Ebin Benny Thomas <ebinbthomas@gmail.com>
+Date:   Tue Jun 8 00:33:35 2021 +0530
+
+    new file2 edited
+
+[33mcommit 7cf09fd48ebda7cf02fd749f68a5d81fa60d245e[m
+Author: Ebin Benny Thomas <ebinbthomas@gmail.com>
+Date:   Tue Jun 8 00:31:01 2021 +0530
+
+    new file added
+
+[33mcommit e893a954ac84cbfde3123b77005f574a333f2e42[m
+Author: Ebin Benny Thomas <ebinbthomas@gmail.com>
+Date:   Tue Jun 8 00:26:13 2021 +0530
+
+    changed text on file2
+
+[33mcommit 485dd193773178ddc8828726835ae79b1819ab32[m
+Author: Ebin Benny Thomas <ebinbthomas@gmail.com>
+Date:   Tue Jun 8 00:24:32 2021 +0530
+
+    changed text on file1
+
+[33mcommit 86b9522ae6925c2eebec58191b5d725dbf9376fb[m
+Author: Ebin Benny Thomas <ebinbthomas@gmail.com>
+Date:   Mon Jun 7 00:54:01 2021 +0530
+
+    Initial commit
